@@ -3,7 +3,7 @@ import bintray.Keys._
 
 name := "kotlin-plugin"
 
-organization := "com.hanhuy.sbt"
+organization := "com.hanhuy.kk.sbt"
 
 version := "1.0.5"
 
